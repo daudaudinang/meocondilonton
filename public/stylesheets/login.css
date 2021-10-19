@@ -1,0 +1,12 @@
+.row {
+    flex-direction: column;
+    align-items: center;
+}
+
+.h3, h3 {
+    font-size: 1.5rem !important;
+}
+
+.panel-heading {
+    text-align: center;
+}

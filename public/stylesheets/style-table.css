@@ -1,0 +1,6 @@
+tr > th, td {
+    text-align: center;
+}
+#table_filter,#table_paginate {
+    float: right;
+}
